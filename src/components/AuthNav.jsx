@@ -9,7 +9,7 @@ export const AuthNav = () => {
         component={NavLink}
         sx={{
           '&.active': {
-            color: '#00B4E5',
+            color: '#A6DD00',
             fontWeight: 600,
             textDecoration: 'underline',
           },
@@ -22,7 +22,7 @@ export const AuthNav = () => {
         component={NavLink}
         sx={{
           '&.active': {
-            color: '#00B4E5',
+            color: '#A6DD00',
             fontWeight: 600,
             textDecoration: 'underline',
           },
